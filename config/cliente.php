@@ -14,5 +14,6 @@ return [
 
     'primary_color' => env('CLIENT_PRIMARY_HEX', '#6b4322'),
     'secondary_color' => env('CLIENT_SECONDARY_HEX', '#e2d3c0'),
+    'highlight_color' => env('CLIENT_HIGHLIGHT_HEX', '#3e5038fc'),
 
 ];
